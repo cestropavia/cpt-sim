@@ -12,4 +12,4 @@ Comes with default installations and privileges
 ## Pro
 Comes with all lite features and free Basic container. 
 To configure containers and setup custom A.I processes visit your apps tab from developers portal;
-https://developers.cespav.com/apps
+https://devs.cespav.com/apps
