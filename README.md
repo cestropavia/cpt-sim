@@ -11,10 +11,15 @@ The current available versions are;
 Comes with default installations and privileges
 ## Pro
 Comes with all lite features and free Basic container. 
+
 To configure containers and setup custom A.I processes visit your apps tab from developers portal;
+
 https://developers.cestropavia.co.ke/apps 
 ## Online Sel-Service Portal
+
 https://school.cespav.com 
+
 Visit above to access online portal available for staffs, parents and students.
+
 ## @ 2023. Cestro Pavia Tech Inc.
 www.cestropavia.co.ke 
